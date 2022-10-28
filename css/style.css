@@ -1,0 +1,17 @@
+.img{
+    background-image: url("../img/architecture-g67a4a9d23_1920.jpg");
+
+}
+.login{
+    position: relative;
+    padding: auto auto auto auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .fontgoogle{
+    font-family: 'Roboto', sans-serif;
+  }
