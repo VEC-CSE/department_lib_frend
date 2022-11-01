@@ -17,5 +17,13 @@
   }
   .imgfp{
     background-image: url("../img/gradienta-bKESVqfxass-unsplash.jpg");
+    
 
+}
+.green{
+  border-color: green;
+  
+}
+.red{
+  border-color: red;
 }
